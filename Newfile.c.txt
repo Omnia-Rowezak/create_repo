@@ -1,1 +1,1 @@
-line one on master
+line one on master.
