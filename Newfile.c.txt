@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 l
 line one on test branch
 line 2 in test branch
 line 3 on test branch after frist puch
+=======
+line one on master.
+>>>>>>> main
